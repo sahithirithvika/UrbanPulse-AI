@@ -1,0 +1,11 @@
+Complaint ID,Category,Location,Ward,Priority,Status,Date
+1,Garbage,MG Road,5,High,Pending,2026-07-01
+2,Road Damage,KPHB,3,Critical,Pending,2026-07-02
+3,Water Leakage,Kukatpally,7,Medium,Resolved,2026-07-02
+4,Streetlights,Ameerpet,2,High,Pending,2026-07-03
+5,Traffic,Madhapur,6,Low,Resolved,2026-07-03
+6,Electricity,Gachibowli,4,High,Pending,2026-07-04
+7,Garbage,Kondapur,8,Critical,Pending,2026-07-04
+8,Public Safety,Secunderabad,1,High,Resolved,2026-07-05
+9,Road Damage,Uppal,9,Medium,Pending,2026-07-05
+10,Water Leakage,LB Nagar,10,Low,Resolved,2026-07-06
