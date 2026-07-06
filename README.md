@@ -89,7 +89,7 @@ urbanpulse-ai/
 Clone the repository:
 
 ```bash
-git clone https://github.com/<sahithirithvika>/UrbanPulse-AI.git
+git clone https://github.com/sahithirithvika/UrbanPulse-AI.git
 cd urbanpulse-ai
 ```
 
